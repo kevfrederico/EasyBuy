@@ -1,0 +1,34 @@
+{
+   "data":[
+      {
+         "imageurl":"https://www.travelanddestinations.com/wp-content/uploads/2017/07/Hallstatt-Lake-Austria-in-the-summer.jpg",
+         "name":"Hallstatt Lake",
+         "lat":47.5622,
+         "lng":13.6493
+      },
+      {
+         "imageurl":"https://www.boriken365.com/wp-content/uploads/2011/03/playa-santa-guanica.jpg",
+         "name":"Playa Santa",
+         "lat":21.4082,
+         "lng":-78.5684
+      },
+      {
+         "imageurl":"https://www.nicholaswaton.com/wp-content/uploads/2016/12/31997103951_0bbe0e33f1_h.jpg",
+         "name":"Tenochtitlan",
+         "lat":19.8078,
+         "lng":-96.9160
+      },
+      {
+         "imageurl":"https://res.cloudinary.com/oasisapp/image/upload/v1/1/peru/machu-picchu-landscape-19232",
+         "name":"Machu Picchu",
+         "lat":-13.1631,
+         "lng":-72.5450
+      },
+      {
+         "imageurl":"https://www.maldives.com/wp-content/uploads/2016/06/compressed-finolhu-maldives-.jpg",
+         "name":"Maldives",
+         "lat":3.2028,
+         "lng":73.2207
+      }
+   ]
+}
